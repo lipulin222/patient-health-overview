@@ -1,0 +1,7 @@
+_deploy/.git/
+*映射表*
+*仅本地保存*
+患者健康速览.html
+患者数据-整理版.json
+patients_product*.json
+node_modules/
